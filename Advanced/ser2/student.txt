@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Kurma</Name>
+    <DateOfBirth>14071998</DateOfBirth>
+    <PlaceOfBirth>Kyzylorda</PlaceOfBirth>
+    <ID>1</ID>
+    <GPA>3.5</GPA>
+  </Student>
+  <Student>
+    <Name>Askar</Name>
+    <DateOfBirth>18081997</DateOfBirth>
+    <PlaceOfBirth>Taraz</PlaceOfBirth>
+    <ID>2</ID>
+    <GPA>4.2</GPA>
+  </Student>
+</ArrayOfStudent>

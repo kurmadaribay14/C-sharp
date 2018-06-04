@@ -1,0 +1,15 @@
+  readerStream.SetLength(0);
+            }
+            //List<int> list = new List<int>();
+            FileStream writerStream = new FileStream("ordered.txt", FileMode.Create);
+            using (StreamWriter writer = new StreamWriter(writerStream))
+            {
+                //int [] arr = list.ToArray();
+                Array.Sort(c);
+                writer.Write(string.Join(Environment.NewLine, c));
+                }
+   //Sort the content and write back to the same file
+                }
+           // ReadFile();
+        }
+    }

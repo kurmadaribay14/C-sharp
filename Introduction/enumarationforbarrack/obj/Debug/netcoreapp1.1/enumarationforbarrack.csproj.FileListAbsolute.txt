@@ -1,0 +1,8 @@
+C:\Users\Home\Summer\intro\enumarationforbarrack\bin\Debug\netcoreapp1.1\enumarationforbarrack.deps.json
+C:\Users\Home\Summer\intro\enumarationforbarrack\bin\Debug\netcoreapp1.1\enumarationforbarrack.runtimeconfig.json
+C:\Users\Home\Summer\intro\enumarationforbarrack\bin\Debug\netcoreapp1.1\enumarationforbarrack.runtimeconfig.dev.json
+C:\Users\Home\Summer\intro\enumarationforbarrack\bin\Debug\netcoreapp1.1\enumarationforbarrack.dll
+C:\Users\Home\Summer\intro\enumarationforbarrack\bin\Debug\netcoreapp1.1\enumarationforbarrack.pdb
+C:\Users\Home\Summer\intro\enumarationforbarrack\obj\Debug\netcoreapp1.1\enumarationforbarrack.AssemblyInfo.cs
+C:\Users\Home\Summer\intro\enumarationforbarrack\obj\Debug\netcoreapp1.1\enumarationforbarrack.dll
+C:\Users\Home\Summer\intro\enumarationforbarrack\obj\Debug\netcoreapp1.1\enumarationforbarrack.pdb

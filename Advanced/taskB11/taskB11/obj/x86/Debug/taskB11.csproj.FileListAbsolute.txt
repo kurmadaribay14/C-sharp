@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Projects\tasks\Lab6\taskB11\taskB11\bin\Debug\taskB11.exe
+C:\Users\user\Documents\Projects\tasks\Lab6\taskB11\taskB11\bin\Debug\taskB11.pdb
+C:\Users\user\Documents\Projects\tasks\Lab6\taskB11\taskB11\obj\x86\Debug\taskB11.exe
+C:\Users\user\Documents\Projects\tasks\Lab6\taskB11\taskB11\obj\x86\Debug\taskB11.pdb
+C:\Users\Home\Desktop\taskB11\taskB11\obj\x86\Debug\taskB11.exe
+C:\Users\Home\Desktop\taskB11\taskB11\obj\x86\Debug\taskB11.pdb
+C:\Users\Home\Desktop\taskB11\taskB11\bin\Debug\taskB11.exe
+C:\Users\Home\Desktop\taskB11\taskB11\bin\Debug\taskB11.pdb
+C:\Users\Home\Desktop\taskB11\taskB11\obj\x86\Debug\taskB11.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Home\Summer\intro\lesson10\bin\Debug\netcoreapp1.1\lesson10.deps.json
+C:\Users\Home\Summer\intro\lesson10\bin\Debug\netcoreapp1.1\lesson10.runtimeconfig.json
+C:\Users\Home\Summer\intro\lesson10\bin\Debug\netcoreapp1.1\lesson10.runtimeconfig.dev.json
+C:\Users\Home\Summer\intro\lesson10\bin\Debug\netcoreapp1.1\lesson10.dll
+C:\Users\Home\Summer\intro\lesson10\bin\Debug\netcoreapp1.1\lesson10.pdb
+C:\Users\Home\Summer\intro\lesson10\obj\Debug\netcoreapp1.1\lesson10.AssemblyInfo.cs
+C:\Users\Home\Summer\intro\lesson10\obj\Debug\netcoreapp1.1\lesson10.dll
+C:\Users\Home\Summer\intro\lesson10\obj\Debug\netcoreapp1.1\lesson10.pdb

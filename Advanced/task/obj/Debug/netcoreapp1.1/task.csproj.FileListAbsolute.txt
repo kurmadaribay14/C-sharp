@@ -1,0 +1,8 @@
+C:\Users\Home\Summer\advanced\task\bin\Debug\netcoreapp1.1\task.deps.json
+C:\Users\Home\Summer\advanced\task\bin\Debug\netcoreapp1.1\task.runtimeconfig.json
+C:\Users\Home\Summer\advanced\task\bin\Debug\netcoreapp1.1\task.runtimeconfig.dev.json
+C:\Users\Home\Summer\advanced\task\bin\Debug\netcoreapp1.1\task.dll
+C:\Users\Home\Summer\advanced\task\bin\Debug\netcoreapp1.1\task.pdb
+C:\Users\Home\Summer\advanced\task\obj\Debug\netcoreapp1.1\task.AssemblyInfo.cs
+C:\Users\Home\Summer\advanced\task\obj\Debug\netcoreapp1.1\task.dll
+C:\Users\Home\Summer\advanced\task\obj\Debug\netcoreapp1.1\task.pdb

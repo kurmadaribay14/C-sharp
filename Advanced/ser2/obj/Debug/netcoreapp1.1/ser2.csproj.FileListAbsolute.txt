@@ -1,0 +1,8 @@
+C:\Users\Home\Summer\advanced\ser2\bin\Debug\netcoreapp1.1\ser2.deps.json
+C:\Users\Home\Summer\advanced\ser2\bin\Debug\netcoreapp1.1\ser2.runtimeconfig.json
+C:\Users\Home\Summer\advanced\ser2\bin\Debug\netcoreapp1.1\ser2.runtimeconfig.dev.json
+C:\Users\Home\Summer\advanced\ser2\obj\Debug\netcoreapp1.1\ser2.AssemblyInfo.cs
+C:\Users\Home\Summer\advanced\ser2\bin\Debug\netcoreapp1.1\ser2.dll
+C:\Users\Home\Summer\advanced\ser2\bin\Debug\netcoreapp1.1\ser2.pdb
+C:\Users\Home\Summer\advanced\ser2\obj\Debug\netcoreapp1.1\ser2.dll
+C:\Users\Home\Summer\advanced\ser2\obj\Debug\netcoreapp1.1\ser2.pdb

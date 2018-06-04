@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\апап\bin\Debug\netcoreapp2.0\lasttask.deps.json
+C:\Users\Home\Desktop\апап\bin\Debug\netcoreapp2.0\lasttask.runtimeconfig.json
+C:\Users\Home\Desktop\апап\bin\Debug\netcoreapp2.0\lasttask.runtimeconfig.dev.json
+C:\Users\Home\Desktop\апап\bin\Debug\netcoreapp2.0\lasttask.dll
+C:\Users\Home\Desktop\апап\bin\Debug\netcoreapp2.0\lasttask.pdb
+C:\Users\Home\Desktop\апап\obj\Debug\netcoreapp2.0\lasttask.AssemblyInfo.cs
+C:\Users\Home\Desktop\апап\obj\Debug\netcoreapp2.0\lasttask.dll
+C:\Users\Home\Desktop\апап\obj\Debug\netcoreapp2.0\lasttask.pdb
+C:\Users\Home\Summer\advanced\bbb\bin\Debug\netcoreapp2.0\lasttask.deps.json
+C:\Users\Home\Summer\advanced\bbb\bin\Debug\netcoreapp2.0\lasttask.runtimeconfig.json
+C:\Users\Home\Summer\advanced\bbb\bin\Debug\netcoreapp2.0\lasttask.runtimeconfig.dev.json
+C:\Users\Home\Summer\advanced\bbb\bin\Debug\netcoreapp2.0\lasttask.dll
+C:\Users\Home\Summer\advanced\bbb\bin\Debug\netcoreapp2.0\lasttask.pdb
+C:\Users\Home\Summer\advanced\bbb\obj\Debug\netcoreapp2.0\lasttask.AssemblyInfo.cs
+C:\Users\Home\Summer\advanced\bbb\obj\Debug\netcoreapp2.0\lasttask.dll
+C:\Users\Home\Summer\advanced\bbb\obj\Debug\netcoreapp2.0\lasttask.pdb

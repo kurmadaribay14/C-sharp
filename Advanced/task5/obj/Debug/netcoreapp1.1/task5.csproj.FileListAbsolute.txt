@@ -1,0 +1,8 @@
+C:\Users\Home\Summer\advanced\task5\bin\Debug\netcoreapp1.1\task5.deps.json
+C:\Users\Home\Summer\advanced\task5\bin\Debug\netcoreapp1.1\task5.runtimeconfig.json
+C:\Users\Home\Summer\advanced\task5\bin\Debug\netcoreapp1.1\task5.runtimeconfig.dev.json
+C:\Users\Home\Summer\advanced\task5\bin\Debug\netcoreapp1.1\task5.dll
+C:\Users\Home\Summer\advanced\task5\bin\Debug\netcoreapp1.1\task5.pdb
+C:\Users\Home\Summer\advanced\task5\obj\Debug\netcoreapp1.1\task5.AssemblyInfo.cs
+C:\Users\Home\Summer\advanced\task5\obj\Debug\netcoreapp1.1\task5.dll
+C:\Users\Home\Summer\advanced\task5\obj\Debug\netcoreapp1.1\task5.pdb
